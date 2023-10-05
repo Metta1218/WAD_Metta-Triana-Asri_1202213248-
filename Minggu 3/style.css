@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    background-image: url(images\ \(14\).jpeg); 
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+h2{
+    text-align: left;
+    color: aqua;
+}
+
+h3{
+    text-align: right;
+    color: brown;
+}
+p{
+    text-align: center;
+    color: forestgreen;
+}
